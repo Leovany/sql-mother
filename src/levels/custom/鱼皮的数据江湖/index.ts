@@ -3,7 +3,7 @@ import sql from "./createTable.sql?raw";
 
 export default {
   key: "yupi_content_analysis",
-  title: "鱼皮的数据江湖",
+  title: "小明的数据江湖",
   initSQL: sql,
   content: md,
   defaultSQL: "select * from content_posts",

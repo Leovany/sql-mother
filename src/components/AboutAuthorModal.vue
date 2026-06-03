@@ -9,7 +9,7 @@
   >
     <div class="about-content">
       <div class="author-intro">
-        <h3>👨‍💻 程序员鱼皮</h3>
+        <h3>👨‍💻 程序员小明</h3>
         <p>全栈开发者、技术博主，帮助数万名学员进入互联网行业</p>
       </div>
       
@@ -22,10 +22,10 @@
         <div class="qrcode-container">
           <img 
             :src="qrcodeUrl" 
-            alt="鱼皮公众号二维码" 
+            alt="小明公众号二维码" 
             class="qrcode-image"
           />
-          <p class="qrcode-text">扫码关注「程序员鱼皮」</p>
+          <p class="qrcode-text">扫码关注「程序员小明」</p>
         </div>
       </div>
     </div>
